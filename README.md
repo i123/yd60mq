@@ -6,3 +6,5 @@
 * Layer1 green
 * Layer2 blue
 * Layer3 red
+
+###### スクリーンセーバ抑止機能
