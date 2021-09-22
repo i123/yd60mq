@@ -6,5 +6,5 @@
 * Layer1 green
 * Layer2 blue
 * Layer3 red
-
 ###### スクリーンセーバ抑止機能
+ex) qmk compile -kb yd60mq/12led_rev1 -km via_rev1
